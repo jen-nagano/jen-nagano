@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello, 
+
+I am a software developer based in the Cleveland area.  
+
+I am currently expanding my web development skills and working on a project for the Shade Tree Commission of Chagrin Falls. 🌲
+
+I taught high school math and computer science for 20 years and I am always happy to engage with fellow lifelong learners. 
 
 <!--
 **jen-nagano/jen-nagano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
